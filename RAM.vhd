@@ -35,6 +35,5 @@ begin
   end if;
  end if;
 end process;
-
- data_out <= ram_data(to_integer(unsigned(address)));
+data_out <= ram_data(to_integer(unsigned(address)));
 end Behavioral;
