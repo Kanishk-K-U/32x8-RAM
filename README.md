@@ -2,7 +2,7 @@
 
 RAM (Random Access Memory) is a type of memory used by computers to read, write, and store data. From small systems like embedded devices and smartphones to large systems like desktops and laptops, RAM is present in all of these. Performance of a system is significantly influenced by the RAM it uses. It is in charge of performing numerous operations and storing data.
 
-## schematic Diagram
+## Schematic Diagram
 <p >
   <div align="center" >
  <img src="https://github.com/Kanishk-K-U/32x8-RAM/blob/main/RAM-Schematic.png">
